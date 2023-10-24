@@ -1,0 +1,9 @@
+import:
+- ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml
+cursor:
+  style:
+    shape: Beam
+window:
+    padding:
+      x: 8
+

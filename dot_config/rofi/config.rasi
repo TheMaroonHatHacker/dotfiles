@@ -1,0 +1,16 @@
+configuration{
+    modi: "drun";
+    icon-theme: "Papirus";
+    show-icons: true;
+    terminal: "alacritty";
+    drun-display-format: "{icon} {name}";
+    location: 0;
+    disable-history: false;
+    hide-scrollbar: true;
+    display-drun: " 󱓞  Apps ";
+    sidebar-mode: false;
+
+}
+
+@theme "catppuccin-mocha"
+
